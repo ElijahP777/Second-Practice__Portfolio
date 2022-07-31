@@ -125,6 +125,13 @@ body {
     transform: rotate(-16.3deg);
     margin-left: 22px;
     top: -11px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+}
+.bacground__logo:hover {
+    background: #5bb2f5;
 }
 
 .header__menu {
